@@ -35,7 +35,7 @@ This project is a powerful backend service that *fetches academic results* from 
 1. Clone this repository
 
 bash
-git clone https://github.com/yourusername/mcp-result-fetcher.git
+git clone [https://github.com/Ayush-Gajera/MCP-ResultAgentX.git](https://github.com/Ayush-Gajera/MCP-ResultAgentX)
 cd mcp-result-fetcher 
 
 

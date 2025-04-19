@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "find_result": {
+        "command": "python",
+        "args": [
+          "D:\\contribution\\MCP-server\\MCP.py"
+        ],
+        "host": "127.0.0.1",
+        "port": 8080,
+        "timeout": 30000
+      }
+    }
+  }
